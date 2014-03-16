@@ -1,0 +1,44 @@
+HGE Started..
+
+HGE version: 1.80
+Date: 16.03.2014, 20:26:33
+
+Application: Los Ovejas
+OS: Windows 6.1.7601
+Memory: 4194303K total, 4194303K free
+
+D3D Driver: aticfx32.dll
+Description: ATI Radeon HD 4800 Series
+Version: 8.17.10.1129
+Mode: 1024 x 768 x X8R8G8B8
+
+Sound Device: Speakers (2- Realtek High Definition Audio)
+Sample rate: 44100
+
+Init done.
+
+Loaded texture sheep.png at 0x7d9ff0.
+
+Loaded texture tree.png at 0x7da0f0.
+
+Loaded texture brick.png at 0x793270.
+
+Loaded texture grass.png at 0x793390.
+
+Loaded texture pyramid.png at 0x793490.
+
+SHEEP CREATED!
+
+SHEEP CREATED!
+
+SHEEP CREATED!
+
+SHEEP DELETED!
+
+SHEEP DELETED!
+
+SHEEP DELETED!
+
+
+Finishing..
+The End.
